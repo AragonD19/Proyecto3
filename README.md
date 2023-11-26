@@ -51,7 +51,3 @@ El núcleo del trazador de rayos está en la función `castRay`, que traza rayos
 ## Renderizado
 
 El bucle principal de renderizado en `main.cpp` llama a la función `castRay` para cada píxel, y los colores resultantes se muestran en la ventana utilizando SDL.
-
-## Conclusión
-
-Este código proporciona un ejemplo básico de un trazador de rayos utilizando C++ y SDL. Incluye conceptos fundamentales como intersecciones de objetos, iluminación, sombras y reflexiones. Puede servir como punto de partida para proyectos más avanzados de trazado de rayos.
