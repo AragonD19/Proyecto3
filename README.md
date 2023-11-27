@@ -51,3 +51,6 @@ El núcleo del trazador de rayos está en la función `castRay`, que traza rayos
 ## Renderizado
 
 El bucle principal de renderizado en `main.cpp` llama a la función `castRay` para cada píxel, y los colores resultantes se muestran en la ventana utilizando SDL.
+
+## Video:
+
